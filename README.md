@@ -17,30 +17,32 @@ The main page consists of Header, Navbar, Body and Footer Components.
 The components include:
 1. Header
 
-The header is as shown below and includes a logo, serach bar and navbar that leads to Home, Documentation or Contact at the footer.
+    The header is as shown below and includes a logo, serach bar and navbar that leads to Home, Documentation or Contact located at the footer.
 
 ![Homepage Header Design](/Design_Assets/Header.png)
 
 2. Navbar
 
-There are 3 navbar designs considered for the two page website, inlcluding the main page header, documentation header and headers for smaller screen sizes as shown:
+    There are 3 navbar designs considered for the two page website, inlcluding the main page header, documentation header and headers for smaller screen sizes as shown:
 
-![First Navbar Design](/Design_Assets/Navbar1.png)
-![Second Navbar Design](/Design_Assets/Navbar2.png)
-![Third Navbar Design](/Design_Assets/Navbar3.png)
+    ![First Navbar Design](/Design_Assets/Navbar1.png)
+
+    ![Second Navbar Design](/Design_Assets/Navbar2.png)
+
+    ![Third Navbar Design](/Design_Assets/Navbar3.png)
 
 3. Body
 
-The body will consist of topic cards that have a general summary of the respective topic.
+    The body will consist of topic cards that have a general summary of the respective topic.
 
-![Body Design](/Design_Assets/Home-Body-Part.png)
+    ![Body Design](/Design_Assets/Home-Body-Part.png)
 
-The topic card will have the following structure:
+    The topic card will have the following structure:
 
-![Topic Card Design](/Design_Assets/Topic-Card.png)
+    ![Topic Card Design](/Design_Assets/Topic-Card.png)
 
 ### Main Page On Scroll Design
 
-The header component image background is meant to dissappear on scrolling, yielding the design below.
+    The header component image background is meant to dissappear on scrolling, yielding the design below.
 
-![Main Page On Scroll Design](/Design_Assets/Home-OnScroll.png)
+    ![Main Page On Scroll Design](/Design_Assets/Home-OnScroll.png)
