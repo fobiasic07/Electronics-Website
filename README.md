@@ -45,4 +45,5 @@ The components include:
 
     The header component image background is meant to dissappear on scrolling, yielding the design below.
 
-    ![Main Page On Scroll Design](/Design_Assets/Home-OnScroll.png)
+![Main Page On Scroll Design](/Design_Assets/Home-OnScroll.png)
+
